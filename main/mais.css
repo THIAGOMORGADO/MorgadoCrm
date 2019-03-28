@@ -1,0 +1,67 @@
+@font-face {
+    font-family: Barrio;
+    src: url(../font/base_02/Base\ 02.ttf);
+}
+body{
+    margin: 0;
+    background-color: #ee0044;
+}
+.menu{
+    height: 30px;
+
+}
+.logo{
+    padding: 20px;
+    font-family: Barrio;
+    font-size: 25pt;
+    text-align: center;
+    
+}
+.logo2{
+    padding: 20px;
+    font-family: Barrio;
+    font-size: 25pt;
+    text-align: center;
+    
+}
+.login{
+    margin-top: -30px; 
+    padding: 10px;
+    background-color: #ee0044;
+    font-family: barrio;
+}
+email{
+    
+    font-size: 17pt;
+}
+.botao{
+    margin-top: 15px;
+    float: right;
+}
+.marca{
+  margin-top: -5px !important;
+  color: #fff !important;
+  padding-left: 5px !important;
+}
+.cadastra{
+    text-decoration: none !important;
+}
+.esqueci{
+    text-decoration: none !important;
+}
+.cadasfor{
+    width:100%;
+    border-radius: 10px;
+    padding: 10px;
+}
+label a {
+    color: #fff;
+}
+.fom{
+    padding: 10px;
+    color: #fff;
+    border-radius: 10px; 
+}
+.bttn{
+    margin-top: 10px;
+}
